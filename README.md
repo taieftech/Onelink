@@ -30,12 +30,8 @@
 | **Beginner Friendly** | ✅ Color UI + Instructions | ❌ Command-line Only |
 | **Cross-Platform** | ✅ Phone & PC | ❌ PC Only |
 
-┌─────────────────────────────────────────────┐
-│  1. Open Termux                             │
-│  2. Type: python onelink.py                 │
-│  3. Watch the magic happen ✨               │
-│  4. Get results while drinking chai ☕      │
-└─────────────────────────────────────────────┘
+### 😎 Just git clone and complete your setup in 30 seconds!
+
 ## 📱 Platforms Supported
 
 ### ✅ **Mobile (Android)**
@@ -55,5 +51,5 @@
 
 ### **For Android (Termux)**
 ```bash
-# Just One command
+# Just One command to start the magic
 python Onelink/onelink.py d
