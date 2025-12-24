@@ -29,7 +29,12 @@
 | **One Command** | ✅ Fully Automated | ❌ Manual Setup |
 | **Beginner Friendly** | ✅ Color UI + Instructions | ❌ Command-line Only |
 | **Cross-Platform** | ✅ Phone & PC | ❌ PC Only |
-
+┌─────────────────────────────────────────────┐
+│  1. Open Termux                             │
+│  2. Type: python onelink.py                 │
+│  3. Watch the magic happen ✨               │
+│  4. Get results while drinking chai ☕      │
+└─────────────────────────────────────────────┘
 ## 📱 Platforms Supported
 
 ### ✅ **Mobile (Android)**
@@ -49,9 +54,5 @@
 
 ### **For Android (Termux)**
 ```bash
-# One command installation
-pkg update && pkg upgrade -y
-pkg install python git -y
-git clone https://github.com/YOUR-USERNAME/onelink-wps.git
-cd onelink-wps
-python onelink.requiredtt
+# Just One command
+python Onelink/onelink.py d
