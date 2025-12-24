@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/No_Monitor_Mode-Required-lightgrey" alt="No Monitor Mode">
 </p>
 
-<h1 align="center">📱⚡ OneLink WPS Attack</h1>
+<h1 align="center">⚡ OneLink WPS Attack</h1>
 <h3 align="center">Universal WPS Pentesting Tool for Android (Termux) & Linux PCs</h3>
 
 <p align="center">
@@ -51,5 +51,5 @@
 
 ### **For Android (Termux)**
 ```bash
-# Just One command to start the magic
-python Onelink/onelink.py d
+# Just One command
+python Onelink/onelink.py
