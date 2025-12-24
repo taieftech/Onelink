@@ -30,7 +30,7 @@
 | **Beginner Friendly** | ✅ Color UI + Instructions | ❌ Command-line Only |
 | **Cross-Platform** | ✅ Phone & PC | ❌ PC Only |
 
-### 😎 Just git clone and complete your setup in 30 seconds!
+### 😎 Just clone python and complete your setup in 30 seconds!
 
 ## 📱 Platforms Supported
 
@@ -52,4 +52,4 @@
 ### **For Android (Termux)**
 ```bash
 # Just One command
-python Onelink/onelink.py
+sudo python Onelink/onelink.py
