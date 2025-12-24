@@ -29,6 +29,7 @@
 | **One Command** | ✅ Fully Automated | ❌ Manual Setup |
 | **Beginner Friendly** | ✅ Color UI + Instructions | ❌ Command-line Only |
 | **Cross-Platform** | ✅ Phone & PC | ❌ PC Only |
+
 ┌─────────────────────────────────────────────┐
 │  1. Open Termux                             │
 │  2. Type: python onelink.py                 │
