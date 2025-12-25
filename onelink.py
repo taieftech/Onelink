@@ -32,7 +32,7 @@ def print_header():
     print("")
     print(f"{Colors.YELLOW}[⚙️] ⚠️⚠️ Highly recommended:{Colors.END}")
     print("  • Before starting, Perform a restart on your device!")
-    print("  • Turn of your device WiFi setting! Get closest to the targeted router!")
+    print("  • Turn off your device WiFi setting! Get closest to the targeted router!")
 
 
 def run_cmd(cmd, cwd=None):
