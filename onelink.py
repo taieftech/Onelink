@@ -129,7 +129,7 @@ def main():
     
     
     repos = [
-        "https://github.com/rakibxdev/OneShot.git",
+        "https://github.com/kimocoder/OneShot.git",
         "https://github.com/wiire-a/pixiewps.git",
         "https://github.com/digsrc/wpa_supplicant.git"
     ]
