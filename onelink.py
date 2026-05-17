@@ -163,7 +163,7 @@ def main():
         sys.exit(1)
 
     # 2. Clone OneShot
-    oneshot_repo = "https://github.com/kimocoder/OneShot.git"
+    oneshot_repo = "https://github.com/NomanProdhan/OneShot.git"
     if not git_clone_or_update(oneshot_repo):
         print(f"\n{Colors.RED}[❌] Failed to obtain OneShot.{Colors.END}")
         sys.exit(1)
